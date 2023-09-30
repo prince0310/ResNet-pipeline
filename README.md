@@ -1,7 +1,7 @@
 # ResNet Classification Magic 🚀
 
 <p align="center">
-  <img src="your-logo.png" alt="Your Logo" width="300">
+  <img src="download.png" alt="Your Logo" width="600">
 </p>
 
 
