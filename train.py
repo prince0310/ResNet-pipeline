@@ -95,7 +95,7 @@ class ResNetTrainer:
                 print(f'{phase} Loss: {epoch_loss:.4f} Acc: {epoch_acc:.4f}')
 
         # Save the trained model
-        torch.save(self.model.state_dict(), 'best.pth')
+        torch.save(self.model, 'best.pt')
 
 # Example usage:
 
